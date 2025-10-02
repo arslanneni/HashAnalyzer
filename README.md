@@ -92,6 +92,6 @@ python main.py
 http://localhost:8000
 ```
 
-#
+---
 
 ### 🔗 Ссылка на автора: https://github.com/DenisPythoneer
