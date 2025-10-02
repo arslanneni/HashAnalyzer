@@ -55,41 +55,42 @@ Hash Analyzer - это мощный инструмент для автомати
 - **Responsive дизайн** - адаптация под мобильные устройства
 - **AJAX/Fetch API** - асинхронные запросы
 
-### 🛠️ Установка и запуск
+---
 
-Клонировать репозиторий:
+## 🛠️ Установка и запуск
 
-    bash
+**Клонирование репозитория:**
+```bash
+git clone https://github.com/DenisPythoneer/HashAnalyzer.git
+cd Hash-Analyzer
+```
 
-    git https://github.com/DenisPythoneer/ToDoList-FastAPI.git
-    
-    cd TaskManager
+**Создание виртуального окружения:**
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+```
 
-Создать и активировать виртуальное окружение:
+**Установка зависимостей:**
+```bash
+pip install -r requirements.txt
+```
 
-    bash
+**Запуск консольного приложения:**
+```bash
+python ./console/main.py
+```
 
-    python -m venv venv
-    
-    source venv/bin/activate  # Linux/Mac
-    
-    venv\Scripts\activate     # Windows
+**Запуск веб-версии:**
+```bash
+python main.py
+```
 
-установить зависимости:
-
-    bash
-
-    pip install -r requirements.txt
-
-Запустить приложение:
-
-    bash
-
-    python main.py
-
-Открыть в браузере:
-
-    http://localhost:8000
+**Открыть в браузере:**
+```
+http://localhost:8000
+```
 
 #
 
