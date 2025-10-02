@@ -1,4 +1,4 @@
-# 🔍 Hash Analyzer v1.0 - Детектор и анализатор хешей
+# 🔍 Hash Analyzer - Детектор и анализатор хешей
 
 ![Hash Analyzer](https://img.shields.io/badge/Version-1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.9+-green)
