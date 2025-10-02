@@ -52,9 +52,7 @@
 - **FastAPI** - современный веб-фреймворк
 - **Uvicorn** - ASGI-сервер
 
-#
 ![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_three.png)
-#
 
 ### Frontend
 - **Чистый HTML5** - без зависимостей
@@ -62,9 +60,7 @@
 - **Vanilla JavaScript** - без jQuery
 - **AJAX-запросы к API**
 
-#
 ![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_two.png)
-#
 
 ---
 
