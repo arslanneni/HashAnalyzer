@@ -17,7 +17,7 @@
 - **Веб-интерфейс** - современный web UI с API
 
 #
-<img src="https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_one.png" height="500">
+<img src="https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_one.png" height="1500">
 
 #
 
