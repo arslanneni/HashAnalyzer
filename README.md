@@ -59,9 +59,10 @@ Hash Analyzer - это мощный инструмент для автомати
 - **Uvicorn** - ASGI-сервер
 
 ### Frontend
-- **Чистый HTML5/CSS3/JavaScript** - без зависимостей
-- **Responsive дизайн** - адаптация под мобильные устройства
-- **AJAX/Fetch API** - асинхронные запросы
+- **Чистый HTML5** - без зависимостей
+- **CSS3** - адаптивный дизайн
+- **Vanilla JavaScript** - без jQuery
+- **AJAX-запросы к API**
 
 #
 ![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_two.png)
