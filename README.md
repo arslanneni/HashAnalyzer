@@ -16,6 +16,8 @@ Hash Analyzer - это мощный инструмент для автомати
 - **🎮 Консольное приложение** - для любителей терминала
 - **🌐 Веб-интерфейс** - современный web UI с API
 
+![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_three.png)
+
 Идеально подходит для:
 - Криптоанализа и пентестинга 🔓
 - Идентификации неизвестных хешей
@@ -37,8 +39,6 @@ Hash Analyzer - это мощный инструмент для автомати
 - **REST API** - для интеграции с другими инструментами
 
 ![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_one.png)
-![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_two.png)
-![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_three.png)
 
 ### 🛠 Технические особенности
 - Валидация по длине и регулярным выражениям
@@ -58,6 +58,8 @@ Hash Analyzer - это мощный инструмент для автомати
 - **Чистый HTML5/CSS3/JavaScript** - без зависимостей
 - **Responsive дизайн** - адаптация под мобильные устройства
 - **AJAX/Fetch API** - асинхронные запросы
+
+![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_two.png)
 
 ---
 
