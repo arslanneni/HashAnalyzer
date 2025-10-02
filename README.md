@@ -65,29 +65,29 @@ git clone https://github.com/DenisPythoneer/HashAnalyzer.git
 cd Hash-Analyzer
 ```
 
-**Создание виртуального окружения:**
+### **Создание виртуального окружения:**
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
 
-**Установка зависимостей:**
+### **Установка зависимостей:**
 ```bash
 pip install -r requirements.txt
 ```
 
-**Запуск консольного приложения:**
+### **Запуск консольного приложения:**
 ```bash
 python ./console/main.py
 ```
 
-**Запуск веб-версии:**
+### **Запуск веб-версии:**
 ```bash
 python main.py
 ```
 
-**Открыть в браузере:**
+### **Открыть в браузере:**
 ```
 http://localhost:8000
 ```
