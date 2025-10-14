@@ -5,6 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 ![Linux](https://img.shields.io/badge/Linux-Fedora%20%7C%20Arch%20%7C%20Kali-blue)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ![Скриншот интерфейса HashAnanlyzer](https://raw.githubusercontent.com/DenisPythoneer/HashAnalyzer/main/screenshots/screenshot_one.png)
 
