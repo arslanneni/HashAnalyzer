@@ -1,6 +1,6 @@
 # 🔍 Hash Analyzer - Детектор и анализатор хешей
 
-![Hash Analyzer](https://img.shields.io/badge/Version-1.0-blue)
+![Hash Analyzer](https://img.shields.io/badge/Version-3.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.9+-green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
